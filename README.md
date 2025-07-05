@@ -47,3 +47,21 @@ Publiquei também um artigo explicando o projeto, abordando tanto a parte técni
 📎 Leia o artigo: [🔗 Projeto ENEM 2013 vs 2023 — Medium](https://medium.com/seu-artigo-aqui)
 
 ---
+
+## Tecnologias Utilizadas
+
+Python
+
+Pandas / NumPy
+
+Jupyter Notebooks
+
+Google Cloud Storage (GCS)
+
+Google Looker Studio
+
+Git / GitHub
+
+## Objetivo Geral
+
+Demonstrar, através de uma pipeline de dados bem estruturada, como é possível transformar grandes volumes de dados públicos em informações valiosas para análise e tomada de decisão, com foco na educação.
