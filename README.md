@@ -1,4 +1,4 @@
-# Engenharia de Dados — Projeto ENEM 2013 vs 2023
+# Engenharia de Dados ENEM (2013 vs 2023)
 
 Este repositório contém a parte de **engenharia de dados** de um projeto que compara os dados do Exame Nacional do Ensino Médio (ENEM) entre os anos de **2013 e 2023**. O objetivo é construir uma **pipeline de dados** estruturada em camadas — **bronze**, **silver** e **gold** — para tratar, integrar e analisar os dados, gerando assim um conjunto de **indicadores visuais** em um painel interativo (dashboard).
 
