@@ -50,18 +50,22 @@ Publiquei também um artigo explicando o projeto, abordando tanto a parte técni
 
 ## Tecnologias Utilizadas
 
-Python
+- Python
 
-Pandas / NumPy
+- Pandas / NumPy
 
-Jupyter Notebooks
+- Jupyter Notebooks
 
-Google Cloud Storage (GCS)
+- Google Cloud Storage (GCS)
 
-Google Looker Studio
+- Google Looker Studio
 
-Git / GitHub
+- Git / GitHub
+
+---
 
 ## Objetivo Geral
 
 Demonstrar, através de uma pipeline de dados bem estruturada, como é possível transformar grandes volumes de dados públicos em informações valiosas para análise e tomada de decisão, com foco na educação.
+
+---
