@@ -36,8 +36,8 @@ As camadas de dados (**bronze**, **silver**, **gold**) foram armazenadas em **bu
 
 As visualizações dos indicadores foram desenvolvidas com o **Looker Studio**, permitindo uma análise interativa e intuitiva dos dados.
 
-📎 Acesse o dashboard:  
-[🔗 Painel Interativo — Looker Studio](https://lookerstudio.google.com/reporting/dca243be-c6e6-487e-a032-f5ab5b456b76)
+Acesse o dashboard:  
+[Painel Interativo — Looker Studio](https://lookerstudio.google.com/reporting/dca243be-c6e6-487e-a032-f5ab5b456b76)
 
 ---
 
@@ -45,8 +45,8 @@ As visualizações dos indicadores foram desenvolvidas com o **Looker Studio**, 
 
 Escrevi um artigo explicando o projeto, abordando tanto a parte técnica quanto os principais insights obtidos.
 
-📎 Leia o artigo completo:  
-[🔗 Análise comparativa dos dados do ENEM 2013 e 2023 com Engenharia de Dados](https://medium.com/@gustgoncalves/an%C3%A1lise-comparativa-dos-dados-do-enem-2013-e-2023-com-engenharia-de-dados-78e5c6cb8388)
+Leia o artigo completo:  
+[Análise comparativa dos dados do ENEM 2013 e 2023 com Engenharia de Dados](https://medium.com/@gustgoncalves/an%C3%A1lise-comparativa-dos-dados-do-enem-2013-e-2023-com-engenharia-de-dados-78e5c6cb8388)
 
 ---
 
