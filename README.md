@@ -4,7 +4,7 @@ Este repositório contém a parte de **engenharia de dados** de um projeto que c
 
 ---
 
-## 🔍 Sobre o Projeto
+## Sobre o Projeto
 
 A pipeline foi projetada para:
 
@@ -26,13 +26,13 @@ Foram analisadas informações como:
 
 ---
 
-## ☁️ Infraestrutura em Nuvem
+## Infraestrutura em Nuvem
 
 As camadas de dados (**bronze**, **silver**, **gold**) foram armazenadas em **buckets do Google Cloud Storage**, facilitando o controle, escalabilidade e integração com ferramentas de análise e visualização.
 
 ---
 
-## 📊 Visualizações
+## Visualizações
 
 As visualizações dos indicadores foram desenvolvidas com o **Looker Studio**, permitindo uma análise interativa e intuitiva dos dados.
 
@@ -41,7 +41,7 @@ As visualizações dos indicadores foram desenvolvidas com o **Looker Studio**, 
 
 ---
 
-## 📝 Artigo no Medium
+## Artigo no Medium
 
 Escrevi um artigo explicando o projeto, abordando tanto a parte técnica quanto os principais insights obtidos.
 
