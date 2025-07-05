@@ -25,6 +25,6 @@ if __name__ == "__main__":
     pasta_local = 'parquet_chunks'
     bucket = 'bucket-enem'
     pasta_destino = 'bronze/parquet'
-    caminho_chave = r'C:\Users\gustavo\Desktop\projeto\EngenhariaDadosEnem\chave\gustavo-460722-4766a478d515.json'
+    caminho_chave = r'C:\Users\gustavo\Desktop\projeto\EngenhariaDadosEnem\chave\chave.json'
 
     upload_pasta_para_bucket(pasta_local, bucket, pasta_destino, caminho_chave)

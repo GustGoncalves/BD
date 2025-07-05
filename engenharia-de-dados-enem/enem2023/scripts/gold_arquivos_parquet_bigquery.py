@@ -47,7 +47,7 @@ if __name__ == "__main__":
     dataset_id = 'dados_enem_2023'
     bucket_name = 'bucket-enem'
     parquet_base_path = 'silver/parquet'
-    credentials_path = r'C:\Users\gustavo\Desktop\projeto-bd2\engenharia-de-dados-enem\enem2023\chave\gustavo-460722-4766a478d515.json'
+    credentials_path = r'C:\Users\gustavo\Desktop\projeto-bd2\engenharia-de-dados-enem\enem2023\chave\chave.json'
 
     credentials = service_account.Credentials.from_service_account_file(credentials_path)
     bigquery_client = bigquery.Client(project=project_id, credentials=credentials)

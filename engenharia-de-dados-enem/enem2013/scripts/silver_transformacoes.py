@@ -39,7 +39,7 @@ def processar_dados_gcs(bucket_name, chave_json, formato_entrada, caminho_partic
 
 if __name__ == "__main__":
     bucket_name = 'enem2013'
-    chave_json = r'C:\Users\gustavo\Desktop\projeto-bd2\engenharia-de-dados-enem\enem2013\chave\gustavo-460722-4766a478d515.json'
+    chave_json = r'C:\Users\gustavo\Desktop\projeto-bd2\engenharia-de-dados-enem\enem2013\chave\chave.json'
 
     formato_entrada = 'parquet'
     caminho_particionado = 'bronze/parquet/MICRODADOS_ENEM_2013_chunk_'

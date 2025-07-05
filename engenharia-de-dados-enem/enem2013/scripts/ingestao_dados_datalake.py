@@ -1,6 +1,6 @@
 from google.cloud import storage
 
-client = storage.Client.from_service_account_json(r'C:\Users\gustavo\Desktop\projeto\EngenhariaDadosEnem\chave\gustavo-460722-4766a478d515.json')
+client = storage.Client.from_service_account_json(r'C:\Users\gustavo\Desktop\projeto\EngenhariaDadosEnem\chave\chave.json')
 
 bucket_name = 'bucket-enem'
 file_path = r'C:\Users\gustavo\Desktop\projeto\EngenhariaDadosEnem\dados\MICRODADOS_ENEM_2023_saida_amostra.csv'
