@@ -47,15 +47,3 @@ Publiquei também um artigo explicando o projeto, abordando tanto a parte técni
 📎 Leia o artigo: [🔗 Projeto ENEM 2013 vs 2023 — Medium](https://medium.com/seu-artigo-aqui)
 
 ---
-
-## 📁 Estrutura do Repositório
-
-```bash
-engenhariadedadosenem/
-├── enem2013/        # Dados e scripts específicos do ENEM 2013
-├── enem2023/        # Dados e scripts específicos do ENEM 2023
-├── bronze/          # Dados brutos
-├── silver/          # Dados tratados
-├── gold/            # Dados prontos para visualização
-├── notebooks/       # Notebooks com análises e transformações
-└── README.md        # Este arquivo
